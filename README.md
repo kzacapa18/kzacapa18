@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kzacapa18 or Kath
+- 👀 I’m interested in coding optimization
+- 🌱 I’m currently learning SQL 
+- 💞️ I’m looking to help people improve their code in C or embedded C
+- 📫 How to reach me: katherine.zacapa@codee.com
